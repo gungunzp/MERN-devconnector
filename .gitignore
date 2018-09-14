@@ -1,6 +1,6 @@
-# https://gungunzp.github.io/
+# https://github.com/gungunzp/MERN-devconnector
 
-node_modules/*
+/node_modules
 package-lock.json
 
 # IntellijIdea files
