@@ -9,3 +9,5 @@ pass: gungun1
 fix routes paths, user: create model and add register and login routes
 
 add: authenication via passport.js, register/login validation
+
+profile: add: model, route, validation; is-empty: improve readability
