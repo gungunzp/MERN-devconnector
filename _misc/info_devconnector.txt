@@ -11,3 +11,5 @@ fix routes paths, user: create model and add register and login routes
 add: authenication via passport.js, register/login validation
 
 profile: add: model, route, validation; is-empty: improve readability
+
+profile: add routes: get all, get one by handle/id, delete user with profile; experience/education: validation, routes: add/delete, fix typo
