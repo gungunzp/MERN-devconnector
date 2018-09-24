@@ -17,3 +17,5 @@ profile: add routes: get all, get one by handle/id, delete user with profile; ex
 posts: add model, routes, validation, likes/comments add/remove routes
 
 client-side: add: npm scripts, create-react-app, bootstrap4/fontawesome cdn, custom css
+
+add react-router, add Navbar, Footer, Landing, Login, and Register components
