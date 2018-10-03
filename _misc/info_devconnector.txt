@@ -21,3 +21,5 @@ client-side: add: npm scripts, create-react-app, bootstrap4/fontawesome cdn, cus
 add react-router, add Navbar, Footer, Landing, Login, and Register components
 
 add axios and classnames; add Register validation UI
+
+add/setup redux+thunk boilerplate; add register logic (auth/errors actions/reducers)
