@@ -25,3 +25,5 @@ add axios and classnames; add Register validation UI
 add/setup redux+thunk boilerplate; add register logic (auth/errors actions/reducers)
 
 add login functionality (auth/errors actions/reducers)
+
+add logout functionality, conditional Navbar, and TextFieldGroup component; fix register validation
