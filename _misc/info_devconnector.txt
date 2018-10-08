@@ -27,3 +27,5 @@ add/setup redux+thunk boilerplate; add register logic (auth/errors actions/reduc
 add login functionality (auth/errors actions/reducers)
 
 add logout functionality, conditional Navbar, and TextFieldGroup component; fix register validation
+
+add Dashboard/CreateProfile/Spinner/PrivateRoute components and profile functionality
