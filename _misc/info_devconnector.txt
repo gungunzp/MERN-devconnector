@@ -29,3 +29,5 @@ add login functionality (auth/errors actions/reducers)
 add logout functionality, conditional Navbar, and TextFieldGroup component; fix register validation
 
 add Dashboard/CreateProfile/Spinner/PrivateRoute components and profile functionality
+
+add CreateProfile markup; add textarea, select, and social input components
