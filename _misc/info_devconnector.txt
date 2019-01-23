@@ -1,9 +1,24 @@
 
-
-
 DB
 user: alex
 pass: gungun1
+
+
+https://mlab.com/login/
+user: gungunzp
+pass: *1
+
+
+App
+http://localhost:3000
+
+email: "techguyinfo@gmail.com"
+password: "123456"
+
+email: "john@gmail.com"
+password: "123456"
+
+
 
 
 fix routes paths, user: create model and add register and login routes
@@ -31,3 +46,14 @@ add logout functionality, conditional Navbar, and TextFieldGroup component; fix 
 add Dashboard/CreateProfile/Spinner/PrivateRoute components and profile functionality
 
 add CreateProfile markup; add textarea, select, and social input components
+
+add CreateProfile functionality; add app credentials
+
+
+johndoe
+
+Edusoft
+
+http://edusoft.com
+
+HTML, CSS, PHP
